@@ -16,4 +16,8 @@ public class Vowels {
         }
         return count;
     }
+
+    public static int getCountWithRegex(String str) {
+        return str.replaceAll("[^aeiou]","").length();
+    }
 }
