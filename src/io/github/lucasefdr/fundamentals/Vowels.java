@@ -1,7 +1,6 @@
 package io.github.lucasefdr.fundamentals;
 
 public class Vowels {
-    
     public static int getCount(String str) {
         String[] letters = str.split("");
         String[] vowels = { "a", "e", "i", "o", "u" };
