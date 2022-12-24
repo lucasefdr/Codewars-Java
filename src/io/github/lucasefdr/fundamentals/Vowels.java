@@ -1,4 +1,4 @@
-package edu.lucasefdr.fundamentals;
+package io.github.lucasefdr.fundamentals;
 
 public class Vowels {
     

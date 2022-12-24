@@ -1,8 +1,10 @@
-package edu.lucasefdr.fundamentals;
+package io.github.lucasefdr.fundamentals.test;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import io.github.lucasefdr.fundamentals.XO;
 
 public class XOTest {
     @Test
